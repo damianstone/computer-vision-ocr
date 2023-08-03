@@ -2,3 +2,5 @@ pytesseract
 numpy
 opencv-python
 wget
+pillow
+matplotlib
