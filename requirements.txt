@@ -4,3 +4,4 @@ opencv-python
 wget
 pillow
 matplotlib
+imutils
