@@ -1,0 +1,1 @@
+custom-ocr/AZ-letters.csv filter=lfs diff=lfs merge=lfs -text
