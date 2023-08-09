@@ -5,3 +5,7 @@ wget
 pillow
 matplotlib
 imutils
+scikit-learn
+pandas
+zipfile
+seaborn
