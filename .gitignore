@@ -1,2 +1,7 @@
 venv-ocr
 venv-ocr**
+
+*.csv
+.csv
+./custom-ocr/AZ-letters.csv
+
