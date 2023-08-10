@@ -10,3 +10,5 @@ pandas
 zipfile
 seaborn
 easyocr
+wordcloud
+spacy
