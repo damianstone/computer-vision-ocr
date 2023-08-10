@@ -5,3 +5,4 @@ venv-ocr**
 .csv
 ./custom-ocr/AZ-letters.csv
 
+*.ttf

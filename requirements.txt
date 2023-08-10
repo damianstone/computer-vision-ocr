@@ -2,10 +2,11 @@ pytesseract
 numpy
 opencv-python
 wget
-pillow
+pillow==9.5.0
 matplotlib
 imutils
 scikit-learn
 pandas
 zipfile
 seaborn
+easyocr
