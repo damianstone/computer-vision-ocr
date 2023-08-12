@@ -15,7 +15,7 @@ confection==0.1.1
 contourpy==1.1.0
 cycler==0.11.0
 cymem==2.0.7
-debugpy==1.6.8
+debugpy
 decorator==5.1.1
 easyocr==1.7.0
 es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.6.0/es_core_news_sm-3.6.0-py3-none-any.whl#sha256=917d0b6359b27b222ccd616c47b43ee951f05da7402fdccce99364a465fa95d6
